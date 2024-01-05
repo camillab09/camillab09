@@ -5,6 +5,7 @@
  <br><br>
  💞️Jeg vil nok trenge mer tid før jeg er klar for å hoppe inn i noe stort og avansert, men jeg lærer nye ting hver dag og håper å snart kunne vise frem noen kule prosjekter. 
 
+ Stefan Eide har min fulle og hele tillatelse til å benytte min Github-Profil i kontakt med arbeidsgivere. 😊 Hilsen Camilla!
 
 <!---
 camillab09/camillab09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
